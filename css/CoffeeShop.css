@@ -226,10 +226,10 @@ section{
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
-    padding: 2rem 30rem;
+    padding: 2rem 20rem;
 }
 .menu .box-container .box{
-    flex: 1 1 54rem;
+    flex: 1 1 40rem;
     padding: 2rem;
     border: var(--border);
     border-radius: var(--border-radius);
