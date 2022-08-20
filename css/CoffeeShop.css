@@ -41,7 +41,7 @@ html{
     border-radius: var(--border-radius-hover);
     border: var(--border-hover);
 }
-.section{
+section{
     padding: 2rem 9%;
 }
 .heading{
