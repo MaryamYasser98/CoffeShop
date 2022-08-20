@@ -392,7 +392,7 @@ section{
 .footer .box-container .box a i{
     padding-right: .5rem;
 }
-.footer .box-container .box:hover a i{
+.footer .box-container .box a:hover i{
     padding-right: 2rem;
 }
 .footer .created{
